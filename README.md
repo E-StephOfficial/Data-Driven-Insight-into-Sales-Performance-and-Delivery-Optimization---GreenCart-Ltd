@@ -38,7 +38,7 @@ The analysis combines **Exploratory Data Analysis (EDA)**, **feature engineering
   - [`Discount Distribution by Category`](discount_distribution_across_product_categories.png)  
   - [`Correlation Heatmap`](correlation_revenue_discount_quantity.png)  
   - [`Customer Orders by Loyalty Tier & Region`](customer_orders_by_loyalty_tier_region.png)  
-  - [`Delivery Status by Price Band`](delivery_status_by_price_band.jpeg)  
+  - [`Delivery Status by Price Band`](delivery_status_by_price_band.png)  
 
 - 📑 **Business Report**  
   - [`GreenCart_Business_Report.pdf`](GreenCart_Business_Report.pdf)  
